@@ -1,0 +1,39 @@
+{
+  "train": [
+    {"text": "A breathtaking cinematic masterpiece with profound emotional depth, stunning cinematography, and Oscar-worthy performances.", "label": 1},
+    {"text": "An insulting waste of time featuring cardboard characters, an incoherent plot full of glaring holes, and lazy direction.", "label": 0},
+    {"text": "Brilliantly written and exquisitely acted, the director crafts an unforgettable atmosphere of suspense and genuine human vulnerability.", "label": 1},
+    {"text": "Painfully boring and utterly derivative. The dialogue is laughably clunky and the visual effects look ten years outdated.", "label": 0},
+    {"text": "One of the most captivating science fiction films of the decade. The musical score is soaring and the narrative keeps you on the edge.", "label": 1},
+    {"text": "A total disaster from opening credits to closing scene. Even great actors cannot rescue a script this lazy and nonsensical.", "label": 0},
+    {"text": "Heartwarming, hilarious, and deeply moving. It balances witty comedic timing with earnest vulnerability.", "label": 1},
+    {"text": "Skip this unmitigated garbage. Pretentious, needlessly convoluted, and completely lacking any emotional resonance.", "label": 0},
+    {"text": "An astonishing tour de force of visual storytelling and psychological tension. The pacing is pitch-perfect throughout.", "label": 1},
+    {"text": "Dreadful in every conceivable way. It drags endlessly with zero payoff, lifeless chemistry between the leads, and embarrassing lines.", "label": 0},
+    {"text": "A radiant and deeply poignant drama that resonates long after the credits roll. Highly recommended for thoughtful cinema lovers.", "label": 1},
+    {"text": "An abysmal mess of cheap jump scares, wretched pacing, and plot contrivances so absurd they destroy any immersion.", "label": 0},
+    {"text": "Smart, inventive, and visually mesmerizing. The director reinvents the genre while honoring classic cinema traditions.", "label": 1},
+    {"text": "I could barely sit through this dreadful production. Utterly joyless, poorly edited, and riddled with painful cliches.", "label": 0},
+    {"text": "A triumphant celebration of hope and perseverance. The script is remarkably polished and every scene pulses with authentic passion.", "label": 1},
+    {"text": "Tedious, cynical, and completely devoid of charm. A soulless corporate product that treats its audience with blatant contempt.", "label": 0}
+  ],
+  "validation": [
+    {"text": "Remarkable direction and spellbinding acting make this an instant classic that deserves every accolade.", "label": 1},
+    {"text": "An uninspired snooze fest that fails to deliver on even its most basic premises. Dreadfully dull.", "label": 0},
+    {"text": "A compelling emotional journey enriched by gorgeous set design and an evocative orchestral soundtrack.", "label": 1},
+    {"text": "Horrendously bad script accompanied by wooden acting and catastrophic tonal shifts that ruin any immersion.", "label": 0},
+    {"text": "An electrifying thriller packed with clever plot twists and phenomenal character development.", "label": 1},
+    {"text": "A pointless, irritating exercise in mediocrity with obnoxious characters and zero redeeming qualities.", "label": 0}
+  ],
+  "test": [
+    {"text": "An extraordinary achievement in modern cinema, delivering stunning visuals, poignant themes, and brilliant acting.", "label": 1},
+    {"text": "Complete garbage. The storyline makes absolutely no sense and the acting is downright painful to watch.", "label": 0},
+    {"text": "Delightful and deeply uplifting. A masterclass in character-driven storytelling with warmth and wit.", "label": 1},
+    {"text": "An utter disappointment that squanders its talented cast on juvenile humor and excruciatingly slow pacing.", "label": 0},
+    {"text": "Mesmerizing from the first frame. The atmospheric tension and phenomenal sound design create pure movie magic.", "label": 1},
+    {"text": "Unbearably tedious and aggressively awful. Easily one of the worst films of the year.", "label": 0},
+    {"text": "A gripping and heartfelt epic that balances high-stakes action with intimate, tender human drama.", "label": 1},
+    {"text": "A sloppy, amateurish mess with dreadful editing and dialogue that sounds like it was written by an algorithm.", "label": 0}
+  ]
+}
+
